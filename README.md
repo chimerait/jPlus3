@@ -1,1 +1,1 @@
-# jPlus3 by Chimera
+# jPlus by Chimera
